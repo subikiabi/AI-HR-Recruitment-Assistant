@@ -1,0 +1,31 @@
+Job Title: Senior Backend Python Engineer
+Department: Core Infrastructure & Platform Engineering
+Location: Remote / San Francisco, CA
+Employment Type: Full-time
+Experience Level: Senior (5+ years)
+
+ABOUT THE ROLE
+We are seeking an experienced and passionate Senior Backend Python Engineer to join our high-scale engineering team. In this role, you will design, build, and maintain mission-critical backend services and APIs that power millions of customer transactions every day. You will collaborate closely with product managers, frontend engineers, and DevOps specialists to deliver robust, high-performance distributed systems.
+
+KEY RESPONSIBILITIES
+- Architect, build, and optimize scalable REST and gRPC microservices using Python (FastAPI / Django).
+- Design and maintain relational databases (PostgreSQL) and caching layers (Redis) for low latency and high availability.
+- Develop asynchronous task processing pipelines using Kafka, RabbitMQ, or Celery.
+- Own services end-to-end: design, implementation, automated testing (Pytest), deployment via Docker & Kubernetes, and production monitoring.
+- Drive engineering excellence: conduct thorough code reviews, mentor junior and mid-level engineers, and champion CI/CD best practices.
+- Identify and eliminate system bottlenecks to maintain sub-100ms API response times at scale.
+
+REQUIRED QUALIFICATIONS
+- 5+ years of professional backend software development experience in Python.
+- Strong proficiency in modern Python frameworks (FastAPI, Django REST Framework, or Flask).
+- Deep understanding of relational databases (PostgreSQL), schema design, indexing, and query optimization.
+- Hands-on experience with containerization (Docker) and orchestration platforms (Kubernetes).
+- Proven experience with cloud platforms (AWS preferred: ECS, EKS, RDS, S3).
+- Solid grasp of distributed systems concepts, microservices architecture, and message brokers (Kafka or RabbitMQ).
+- Strong commitment to automated testing (unit, integration) and CI/CD pipelines.
+
+PREFERRED / BONUS QUALIFICATIONS
+- Experience with Infrastructure as Code (Terraform).
+- Experience with Go or Rust for performance-critical services.
+- Familiarity with monitoring and observability stacks (Prometheus, Grafana, Datadog).
+- BS/MS degree in Computer Science, Software Engineering, or equivalent practical experience.

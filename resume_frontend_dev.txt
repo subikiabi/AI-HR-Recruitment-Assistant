@@ -1,0 +1,35 @@
+PRIYA SHARMA
+Email: priya.sharma@example.com | Phone: +1 (555) 345-6789 | Location: New York, NY
+Portfolio: priyasharma.dev | GitHub: github.com/priyasharma-ui
+
+PROFESSIONAL SUMMARY
+Creative and detail-oriented Frontend Engineer with 4 years of experience crafting accessible, responsive, and performant web applications. Specialized in modern JavaScript/TypeScript ecosystems, React, Next.js, and CSS/Tailwind. Passionate about design systems, web performance optimization (Core Web Vitals), and seamless user experiences.
+
+CORE TECHNICAL SKILLS
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3/SCSS
+- Frameworks & Libraries: React, Next.js, Redux Toolkit, React Query (TanStack Query), Tailwind CSS, Material-UI, Framer Motion
+- Tooling & Bundlers: Vite, Webpack, Babel, ESLint, Prettier, npm, yarn
+- Testing: Jest, React Testing Library, Cypress (E2E)
+- Backend Familiarity: Node.js, Express basics, REST APIs, GraphQL client
+- Design & Collaboration: Figma, Storybook, Git, GitHub, Jira, Agile
+
+WORK EXPERIENCE
+
+Frontend Developer | PixelCraft Studio, New York, NY | 2022 - Present
+- Spearheaded the redesign of the customer-facing SaaS portal using React 18, Next.js, and Tailwind CSS, improving lighthouse performance scores from 62 to 94.
+- Engineered reusable UI component library in Storybook with 45+ components adopted across 3 internal product teams.
+- Implemented state management using Redux Toolkit and asynchronous data caching with TanStack React Query, cutting redundant network requests by 50%.
+- Integrated accessible keyboard navigation and ARIA attributes achieving WCAG 2.1 AA compliance across all web forms.
+- Collaborated closely with UI/UX designers in Figma to translate prototypes into pixel-perfect interactive web pages.
+
+Junior Frontend Developer | AppVibe Media, Boston, MA | 2020 - 2022
+- Developed responsive client web dashboards using React, CSS Modules, and RESTful APIs.
+- Converted monolithic jQuery scripts into modern modular React components.
+- Wrote unit and integration tests using Jest and React Testing Library, ensuring 80%+ code coverage.
+- Optimized bundle sizes using code-splitting and dynamic imports, reducing initial page load time by 35%.
+
+EDUCATION
+Bachelor of Science in Information Technology | Boston University (2016 - 2020)
+
+CERTIFICATIONS & WORKSHOPS
+- Meta Front-End Developer Professional Certificate (Coursera, 2021)

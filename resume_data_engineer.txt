@@ -1,0 +1,41 @@
+DAVID CHEN
+Email: david.chen@example.com | Phone: +1 (555) 456-7890 | Location: Seattle, WA
+LinkedIn: linkedin.com/in/davidchen-data | GitHub: github.com/davidchen-eng
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 6+ years of hands-on experience designing robust ETL/ELT pipelines, distributed data lakes, and real-time streaming architectures. Expert in Python, SQL, Apache Spark, Snowflake, dbt, and Kafka. Skilled in data modeling, pipeline orchestration with Apache Airflow, and cloud data governance.
+
+CORE TECHNICAL SKILLS
+- Languages: Python (Pandas, PySpark), SQL (Advanced), Scala (Basic), Bash
+- Big Data & Streaming: Apache Spark, Apache Kafka, Apache Flink, PySpark
+- Data Warehouses & Lakehouses: Snowflake, Google BigQuery, Amazon Redshift, Databricks Delta Lake
+- Orchestration & Transformation: Apache Airflow, dbt (data build tool), Prefect, Dagster
+- Cloud & Infrastructure: AWS (S3, EMR, Glue, Athena, IAM), Docker, Terraform
+- Databases: PostgreSQL, MongoDB, Cassandra
+
+WORK EXPERIENCE
+
+Senior Data Engineer | DataSphere Analytics, Seattle, WA | 2022 - Present
+- Architected a modern data lakehouse using Databricks, Snowflake, and dbt, processing 8TB+ of daily incoming event streams.
+- Designed real-time streaming data pipelines with Kafka and Spark Streaming to support dynamic fraud detection algorithms.
+- Optimized Snowflake queries and clustering keys, slashing cloud warehouse compute costs by 32% ($45k annual savings).
+- Built automated data quality monitoring pipelines using Great Expectations integrated into CI/CD.
+- Mentored junior data engineers on dimensional modeling (Kimball methodology) and clean SQL code standards.
+
+Data Engineer | OmniRetail Corporation, Chicago, IL | 2019 - 2022
+- Migrated legacy on-premise Oracle data warehouse to AWS Redshift and S3.
+- Developed 50+ batch ETL pipelines in Python and Apache Airflow supporting financial reporting and marketing attribution.
+- Reduced nightly pipeline execution time from 6 hours to 1.8 hours through partitioned parallel loads.
+- Created data marts and clean views for BI analysts using Tableau and PowerBI.
+
+Data Analyst / Associate Engineer | MetricsLab, Chicago, IL | 2018 - 2019
+- Extracted and transformed raw customer behavior datasets using SQL and Python.
+- Built interactive KPI dashboards in Tableau and automated weekly executive summaries.
+
+EDUCATION
+Master of Science in Data Science | Northwestern University (2016 - 2018)
+Bachelor of Science in Applied Mathematics | University of Illinois (2012 - 2016)
+
+CERTIFICATIONS
+- Snowflake SnowPro Core Certified (2023)
+- Databricks Certified Data Engineer Associate (2022)

@@ -1,0 +1,41 @@
+ALEX MORGAN
+Email: alex.morgan@example.com | Phone: +1 (555) 234-5678 | Location: San Francisco, CA
+LinkedIn: linkedin.com/in/alexmorgan-dev | GitHub: github.com/alexmorgan
+
+PROFESSIONAL SUMMARY
+Senior Backend Software Engineer with 7+ years of experience designing and scaling distributed systems, high-throughput microservices, and event-driven architectures. Proven track record in optimizing database queries, reducing API latency by 40%, and managing cloud-native infrastructure on AWS. Strong expertise in Python, FastAPI, Django, PostgreSQL, Redis, and Kubernetes.
+
+CORE TECHNICAL SKILLS
+- Languages: Python (Expert), Go (Intermediate), SQL (PostgreSQL, MySQL), Bash
+- Frameworks & Libraries: FastAPI, Django REST Framework, Flask, Celery, Pydantic, SQLAlchemy
+- Cloud & DevOps: AWS (ECS, EKS, Lambda, S3, RDS, CloudWatch), Docker, Kubernetes, Terraform, GitHub Actions CI/CD
+- Databases & Caching: PostgreSQL, MongoDB, Redis, Elasticsearch
+- Messaging & Architecture: Apache Kafka, RabbitMQ, Microservices, RESTful APIs, gRPC, Event-Driven Architecture
+- Testing & Practices: Pytest, TDD, Agile/Scrum, Distributed Tracing, Prometheus, Grafana
+
+WORK EXPERIENCE
+
+Senior Backend Engineer | CloudScale Tech, San Francisco, CA | 2021 - Present
+- Architected and led development of an event-driven payment processing microservice handling 15M+ transactions/day using FastAPI, Kafka, and PostgreSQL.
+- Reduced p99 API response times from 350ms to 48ms through Redis caching strategies and optimized database indexing.
+- Led migration of 12 monolithic services into containerized microservices managed on AWS EKS using Kubernetes and Helm charts.
+- Mentored a team of 5 junior and mid-level backend engineers, conducting architecture reviews and implementing automated code quality gates.
+- Built automated CI/CD pipelines with GitHub Actions and Terraform, decreasing deployment cycle time by 60%.
+
+Backend Software Engineer | FinStream Solutions, Austin, TX | 2018 - 2021
+- Developed core RESTful APIs for automated financial reconciliation using Python (Django) and Celery background workers.
+- Designed schemas and data pipelines for transactional reconciliation across 4 international banking partners.
+- Implemented JWT-based OAuth2 authentication and role-based access control (RBAC) supporting 200k+ enterprise users.
+- Collaborated with frontend engineers and product managers to define API contracts and improve data payload serialization.
+
+Junior Software Developer | DataPulse Innovations, Boston, MA | 2016 - 2018
+- Built internal analytics dashboards using Flask, SQLAlchemy, and PostgreSQL.
+- Wrote automated unit and integration tests using Pytest, boosting test coverage from 45% to 82%.
+- Maintained legacy batch processing scripts and debugged production issues.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Texas at Austin (2012 - 2016)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (2022)
+- Certified Kubernetes Application Developer (CKAD) (2023)

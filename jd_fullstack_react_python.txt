@@ -1,0 +1,29 @@
+Job Title: Full Stack Software Engineer (React & Python)
+Department: Product Engineering
+Location: Remote / New York, NY
+Employment Type: Full-time
+Experience Level: Mid-Level to Senior (3-5 years)
+
+ABOUT THE ROLE
+We are looking for a versatile Full Stack Software Engineer skilled in React and Python to build intuitive web applications and robust backend services. You will bridge the gap between frontend user experience and backend data processing, turning customer requirements into smooth, reliable features.
+
+KEY RESPONSIBILITIES
+- Build modern, accessible, and responsive user interfaces using React, TypeScript, and modern CSS frameworks (Tailwind CSS).
+- Develop and maintain RESTful API endpoints and background tasks using Python (FastAPI / Flask).
+- Integrate third-party APIs, OAuth authentication flows, and state management (Redux Toolkit or React Query).
+- Optimize web application performance, Core Web Vitals, and client-side caching.
+- Write unit, integration, and end-to-end tests across both frontend and backend codebases.
+- Participate in agile sprint planning, design reviews, and continuous deployment.
+
+REQUIRED QUALIFICATIONS
+- 3+ years of professional full-stack development experience.
+- Strong proficiency in modern JavaScript/TypeScript and React (hooks, context, state management).
+- Strong proficiency in Python backend development (FastAPI, Flask, or Django).
+- Experience working with SQL databases (PostgreSQL or MySQL).
+- Familiarity with Git, Docker, and RESTful API design.
+- Passion for great UX/UI and customer-centric software development.
+
+BONUS QUALIFICATIONS
+- Experience with Next.js and Server-Side Rendering (SSR).
+- Experience with cloud services (AWS / GCP / Vercel).
+- Knowledge of automated UI testing with Cypress or Playwright.
